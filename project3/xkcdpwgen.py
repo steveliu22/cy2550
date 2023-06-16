@@ -58,7 +58,7 @@ def generateRandomWords(numWords):
     
     randomWords = []
 
-    for i in range(numOfWords):
+    for i in range(numWords):
         nextWord = words[random.randint(0, numOfWords)].strip()
         randomWords.append(nextWord)
     
