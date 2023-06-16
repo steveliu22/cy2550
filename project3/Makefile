@@ -1,2 +1,2 @@
 run:
-	python xkcdpwgen.py
+	python3 xkcdpwgen.py
